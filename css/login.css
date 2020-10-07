@@ -1,0 +1,21 @@
+body{
+	margin: 5px;
+	background-image: url("../images/login.jpg");
+	background-size: cover;
+}
+.error{
+	background-color: yellow;
+	color:red;
+}
+.navbar-brand{
+	color: white;
+	font-weight: bold;
+}
+.navbar-brand:hover{
+	color:#adf58b;
+}
+.tab{
+	color:white;
+	font-size: 1.5em;
+	font-style: bold;
+}
